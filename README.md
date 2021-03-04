@@ -1,4 +1,7 @@
-### Hi there 👋
+# Yongho Kim
+
+### Integrated Master's and Ph.D Course to DAN Lab. at Myongji University
+#### My page : https://kyh980909.github.io
 
 <!--
 **kyh980909/kyh980909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kyh980909&show_icons=true)
